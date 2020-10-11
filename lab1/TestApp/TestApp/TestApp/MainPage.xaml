@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TestApp.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#f4a531" Padding="24" CornerRadius="0">
+            <Label Text="Witaj w aplikacji Sebastiana!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label HorizontalTextAlignment="Center" x:Name="lbl" Text="Hello World!" FontSize="Title" Padding="30,10,30,10"/>
+        <Entry x:Name="text" Placeholder="Wprowadź imię"/>
+        <Button BackgroundColor="#f4a531" Text="Wyślij" Clicked="Refresh"/>
+        <Label FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Moje kursy programowania: "/>
+                        <Span Text="https://www.youtube.com/user/KodeksOnline" FontAttributes="Bold"/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </StackLayout>
+
+</ContentPage>

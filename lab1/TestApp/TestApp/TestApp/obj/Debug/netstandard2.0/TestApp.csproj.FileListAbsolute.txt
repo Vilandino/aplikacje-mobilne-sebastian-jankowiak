@@ -1,0 +1,14 @@
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1\TestApp\TestApp\TestApp\bin\Debug\netstandard2.0\TestApp.deps.json
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1\TestApp\TestApp\TestApp\bin\Debug\netstandard2.0\TestApp.dll
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1\TestApp\TestApp\TestApp\bin\Debug\netstandard2.0\ref\TestApp.dll
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1\TestApp\TestApp\TestApp\bin\Debug\netstandard2.0\TestApp.pdb
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.csprojAssemblyReference.cache
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.AssemblyInfoInputs.cache
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.AssemblyInfo.cs
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.dll
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\ref\TestApp.dll
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1\TestApp\TestApp\TestApp\obj\Debug\netstandard2.0\TestApp.pdb
