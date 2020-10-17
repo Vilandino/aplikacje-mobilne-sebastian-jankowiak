@@ -8,7 +8,7 @@ using Microsoft.Extensions.Logging;
 namespace lab1_iot_jankowiak.Rest.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("weather")]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
