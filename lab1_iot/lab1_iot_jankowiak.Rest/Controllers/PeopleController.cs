@@ -10,7 +10,7 @@ using Microsoft.Extensions.Logging;
 namespace lab1_iot_jankowiak.Rest.Controllers
 {
     [ApiController]
-    [Route("people")]
+    [Route("api/people")]
     public class PeopleController : ControllerBase
     {
         AzureDbContext _azureDbContext;
@@ -21,9 +21,54 @@ namespace lab1_iot_jankowiak.Rest.Controllers
         }
 
         [HttpGet]
-        public IEnumerable<Person> Get()
+        public IActionResult Get()
         {
-            return _azureDbContext.People;
+            return Ok(_azureDbContext.People);
         }
+
+        [HttpGet("{id}")]
+        public IActionResult Get([FromRoute] int id)
+        {
+            var person = _azureDbContext.People.FirstOrDefault(p => p.PersonID == id);
+
+            if (person == null)
+            {
+                return NotFound();
+            }
+            else
+            {
+                return Ok(person);
+            }
+        }
+
+        [HttpPost]
+        public IActionResult Create([FromBody]Person person)
+        {
+            _azureDbContext.People.Add(person);
+            _azureDbContext.SaveChanges();
+            return Ok(person.PersonID);
+        }
+
+        [HttpDelete("{id}")]
+        public IActionResult Delete([FromRoute] int id)
+        {
+            var person = _azureDbContext.People.Find(id);
+            if (person == null)
+            {
+                return NotFound();
+            }
+            _azureDbContext.Remove(person);
+            _azureDbContext.SaveChanges();
+            return Ok("Usunięto");
+        }
+
+        [HttpPut]
+        public IActionResult Put([FromRoute] Person person)
+        {
+            _azureDbContext.Update(person);
+            _azureDbContext.SaveChanges();
+            return Ok(person.PersonID);
+        }
+
     }
 }

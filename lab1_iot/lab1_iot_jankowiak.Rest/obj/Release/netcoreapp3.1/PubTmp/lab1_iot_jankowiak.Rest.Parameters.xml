@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="lab1iotjankowiak" tags="IisApp">
+  <parameter name="IIS Web Application Name" description="" value="lab1-iot-jankowiak-2" tags="IisApp">
     <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Projekty\ SSD\\IOT_2020\\iot_sebastian_jankowiak\\lab1_iot\\lab1_iot_jankowiak\.Rest\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
   </parameter>
 </parameters>

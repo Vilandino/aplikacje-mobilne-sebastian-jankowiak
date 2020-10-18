@@ -66,6 +66,5 @@ C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1_iot\lab1_iot_jankowiak.Res
 C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1_iot\lab1_iot_jankowiak.Rest\obj\Debug\netcoreapp3.1\lab1_iot_jankowiak.Rest.pdb
 C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1_iot\lab1_iot_jankowiak.Rest\obj\Debug\netcoreapp3.1\lab1_iot_jankowiak.Rest.genruntimeconfig.cache
 C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1_iot\lab1_iot_jankowiak.Rest\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
-C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1_iot\lab1_iot_jankowiak.Rest\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.lab1iotjankowiakRest20201017161638 - Web Deploy.json
-C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1_iot\lab1_iot_jankowiak.Rest\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\lab1iotjankowiakRest20201017161638 - Web Deploy\mssql1.arm.json
-C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1_iot\lab1_iot_jankowiak.Rest\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\lab1iotjankowiakRest20201017161638 - Web Deploy\profile.arm.json
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1_iot\lab1_iot_jankowiak.Rest\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.lab1iotjankowiak - Web Deploy.json
+C:\Projekty SSD\IOT_2020\iot_sebastian_jankowiak\lab1_iot\lab1_iot_jankowiak.Rest\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\lab1iotjankowiak - Web Deploy\profile.arm.json
